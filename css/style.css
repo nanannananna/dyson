@@ -1,5 +1,8 @@
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
 
+
+.wrap {width: 83.33%; margin: auto;}
+
 #header {width: 100%; background: #000;}
 #header::before {content: ''; display: block; width: 100%; border-bottom: 1px solid #444; position: absolute; left: auto; top: 2.5rem;}
 #header .header_top, #header .header_bottom {width: 100%; margin: auto;}
